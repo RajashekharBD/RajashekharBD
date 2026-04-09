@@ -71,6 +71,23 @@ I focus on developing real-world solutions that combine **backend logic, fronten
 ---
 
 ## 📊 GitHub Stats (Live)
+<p align="center">
+
+  <!-- Primary Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=RajashekharBD&show_icons=true&theme=tokyonight&count_private=true" />
+
+</p>
+
+<p align="center">
+
+  <!-- Fallback if above fails -->
+  <img src="https://img.shields.io/badge/GitHub_Stats-Available-blue?style=for-the-badge&logo=github" />
+
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RajashekharBD&theme=tokyonight" />
+</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RajashekharBD&show_icons=true&theme=tokyonight&count_private=true" />
