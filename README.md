@@ -142,12 +142,12 @@ available  : Open Source Collaboration ✅
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RajashekharBD&show_icons=true&theme=tokyonight&border_color=7F3FBF&bg_color=0D1117&title_color=7F3FBF&icon_color=7F3FBF&count_private=true&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RajashekharBD&theme=tokyonight&border=7F3FBF&background=0D1117&stroke=7F3FBF&ring=7F3FBF&fire=FF6E4B&hide_border=true" />
+  <!-- <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RajashekharBD&theme=tokyonight&border=7F3FBF&background=0D1117&stroke=7F3FBF&ring=7F3FBF&fire=FF6E4B&hide_border=true" /> -->
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajashekharBD&layout=compact&theme=tokyonight&border_color=7F3FBF&bg_color=0D1117&title_color=7F3FBF&hide_border=true&langs_count=8" />
-</div>
+</div> -->
 
 ---
 
@@ -172,11 +172,11 @@ available  : Open Source Collaboration ✅
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:rajashekhardurgad01@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/rajashekhardurgad/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
