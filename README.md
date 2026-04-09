@@ -11,7 +11,7 @@
 <!-- Profile Views + Followers -->
 <img src="https://komarev.com/ghpvc/?username=RajashekharBD&label=Profile+Views&color=a855f7&style=for-the-badge" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/RajashekharBD?label=Followers&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+<!-- <img src="https://img.shields.io/github/followers/RajashekharBD?label=Followers&style=for-the-badge&color=0891b2&labelColor=1c1917" /> -->
 
 </div>
 
