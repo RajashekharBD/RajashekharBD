@@ -69,7 +69,11 @@ I focus on developing real-world solutions that combine **backend logic, fronten
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RajashekharBD&theme=tokyonight" />
+</p>
 ## 📊 GitHub Stats (Live)
 
 <p align="center">
