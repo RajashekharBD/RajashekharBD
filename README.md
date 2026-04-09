@@ -73,6 +73,8 @@ I focus on developing real-world solutions that combine **backend logic, fronten
 ## 📊 GitHub Stats (Live)
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RajashekharBD&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RajashekharBD&show_icons=true&theme=tokyonight&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api?username=RajashekharBD&show_icons=true&theme=tokyonight&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RajashekharBD&theme=tokyonight" />
 </p>
